@@ -1,0 +1,32 @@
+{
+  "addons": {
+    "kline-insight@local": {
+      "updates": [
+        {
+          "version": "0.5.3",
+          "update_link": "https://getmarketcompass.site/releases/v0.5.3/kline-insight-firefox-0.5.3.zip"
+        },
+        {
+          "version": "0.5.2",
+          "update_link": "https://your-host.example.com/kline-insight/releases/kline-insight-firefox-0.5.2.zip"
+        },
+        {
+          "version": "0.5.1",
+          "update_link": "https://your-host.example.com/kline-insight/releases/kline-insight-firefox-0.5.1.zip"
+        },
+        {
+          "version": "0.5.0",
+          "update_link": "https://your-host.example.com/kline-insight/releases/kline-insight-firefox-0.5.0.zip"
+        },
+        {
+          "version": "0.4.0",
+          "update_link": "https://your-host.example.com/kline-insight/releases/kline-insight-firefox-0.4.0.zip"
+        },
+        {
+          "version": "0.3.9",
+          "update_link": "https://your-host.example.com/kline-insight/releases/kline-insight-firefox-0.3.9.zip"
+        }
+      ]
+    }
+  }
+}
