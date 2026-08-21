@@ -1,8 +1,8 @@
 {
-  "version": "0.5.3",
-  "releasedAt": "2026-08-18T01:23:32.059Z",
-  "chromeZip": "https://getmarketcompass.site/releases/v0.5.3/kline-insight-chrome-0.5.3.zip",
-  "chromeCrx": "https://getmarketcompass.site/releases/v0.5.3/kline-insight-chrome-0.5.3.crx",
-  "firefoxZip": "https://getmarketcompass.site/releases/v0.5.3/kline-insight-firefox-0.5.3.zip",
+  "version": "0.5.4",
+  "releasedAt": "2026-08-21T03:21:07.842Z",
+  "chromeZip": "https://getmarketcompass.site/releases/v0.5.4/kline-insight-chrome-0.5.4.zip",
+  "chromeCrx": "https://getmarketcompass.site/releases/v0.5.4/kline-insight-chrome-0.5.4.crx",
+  "firefoxZip": "https://getmarketcompass.site/releases/v0.5.4/kline-insight-firefox-0.5.4.zip",
   "notes": "把本文件复制为 publish.config.json 并填写真实托管地址；publish.js 会自动生成更新清单并注入 Firefox 的 update_url。"
 }

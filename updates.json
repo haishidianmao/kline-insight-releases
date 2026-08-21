@@ -3,6 +3,10 @@
     "kline-insight@local": {
       "updates": [
         {
+          "version": "0.5.4",
+          "update_link": "https://getmarketcompass.site/releases/v0.5.4/kline-insight-firefox-0.5.4.zip"
+        },
+        {
           "version": "0.5.3",
           "update_link": "https://getmarketcompass.site/releases/v0.5.3/kline-insight-firefox-0.5.3.zip"
         },
